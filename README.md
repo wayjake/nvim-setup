@@ -3,6 +3,8 @@ This is my nvim init file
 
 These are normally located at, ~/.config/nvim/init.vim (normally meaning from the one time I've installed nvim so far on MacOs)
 
+**you must have Vim-Plug installed: https://github.com/junegunn/vim-plug
+
 
 ```
 " turn relative line numbers on

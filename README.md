@@ -1,6 +1,9 @@
 # nvim-setup
 This is my nvim init file
 
+These are normally located at, ~/.config/nvim/init.vim (normally meaning from the one time I've installed nvim so far on MacOs)
+
+
 ```
 " turn relative line numbers on
 :set relativenumber

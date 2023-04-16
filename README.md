@@ -3,6 +3,17 @@ This is my nvim init file
 
 These are normally located at, ~/.config/nvim/init.vim (normally meaning from the one time I've installed nvim so far on MacOs)
 
+## 🛠️ Installation
+Make a backup of your current nvim and shared folder
+
+```
+mv ~/.config/nvim ~/.config/nvim.bak
+mv ~/.local/share/nvim ~/.local/share/nvim.bak
+```
+
+## Clone the repository
+```git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim```
+
 **you must have Vim-Plug installed: https://github.com/junegunn/vim-plug
 
 

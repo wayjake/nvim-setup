@@ -43,3 +43,15 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 
 ## The Config
 [nvim][./nvim]
+
+## This is where I left off in the rabbit hole
+LunarVim
+
+```
+--------------------------------------------------------------------------------
+[WARN] the folder /Users/charlieberg/.local/bin is not on PATH, consider adding 'export PATH=/Users/charlieberg/.local/bin:$PATH' to your /Users/charlieberg/.zshenv
+--------------------------------------------------------------------------------
+Thank you for installing LunarVim!!
+You can start it by running: /Users/charlieberg/.local/bin/lvim
+Do not forget to use a font with glyphs (icons) support [https://github.com/ryanoasis/nerd-fonts]
+```
